@@ -2,7 +2,7 @@
 Welcome to my Github page!
 
 ## saturno10@github:~$ whoami
-My name is Álvaro, I'm a Computer Engineering student. I'm always looking for things to learn.
+My name is Álvaro, I'm a Computer Engineering student. I'm always looking for new things to learn.
 
 
 ## saturno10@gitgub:~$ cat /technicalInformation/myEducation.txt
@@ -10,8 +10,8 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for t
 - C1 Pearson English Certificate: Pass with merit.
 
 ## saturno10@gitgub:~$ cat /technicalInformation/mySkills.txt
-- Professional comunication skills in both english and spanish.
-- Code desing and implementation skills.
+- Professional comunication skills in both English and Spanish.
+- Code design and implementation skills.
 - Problem solving.
 - Quick learner.
 
