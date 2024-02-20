@@ -4,12 +4,12 @@ Welcome to my Github page!
 ## saturno10@github:~$ whoami
 My name is Álvaro, I'm a Computer Engineering student. I'm always looking for new things to learn.
 
-
-## saturno10@gitgub:~$ cat /technicalInformation/myEducation.txt
+## saturno10@github:~$ cd technicalInformation/
+### saturno10@github:~/technicalInformation$ cat myEducation.txt
 - Currently studying a Computer Engineering Bachelor's degree at University of Murcia.
 - C1 Pearson English Certificate: Pass with merit.
 
-## saturno10@gitgub:~$ cat /technicalInformation/mySkills.txt
+### saturno10@github:~/technicalInformation$ cat mySkills.txt
 - Professional comunication skills in both English and Spanish.
 - Code design and implementation skills.
 - Problem solving.
