@@ -15,6 +15,22 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
 - Problem solving.
 - Quick learner.
 
+### saturno10@github:~/technicalInformation$ cat contactInfo.txt
+- email: alvaroaledotornero@gmail.com
+
+## saturno10@github:~/technicalInformation$ cd ../currentPlans
+### saturno10@github:~/currentPlans$ cat myProjects.txt
+- About me website
+
+### saturno10@github:~/currentPlans$ cat whatImLearning.txt
+- C++
+- Java
+- Python
+- Database design
+- Algorithm design and analysis
+
+
+
 
 
 
