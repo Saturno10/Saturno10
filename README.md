@@ -14,6 +14,9 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
 - Code design and implementation skills.
 - Problem solving.
 - Quick learner.
+- C/C++
+- Java
+- Python
 
 ### saturno10@github:~/technicalInformation$ cat contactInfo.txt
 - email: alvaroaledotornero@gmail.com
@@ -23,11 +26,9 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
 - About me website
 
 ### saturno10@github:~/currentPlans$ cat whatImLearning.txt
-- C++
-- Java
-- Python
-- Database design
-- Algorithm design and analysis
+- Software design & development
+- Artificial Inteligence fundamentals
+- Network & Computer architecture
 
 
 
