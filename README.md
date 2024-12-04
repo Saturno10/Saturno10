@@ -30,7 +30,11 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
 - Artificial Inteligence fundamentals
 - Network & Computer architecture
 
-
+<div align="center">
+   
+   ![Alvaros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saturno10&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 
 
