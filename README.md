@@ -45,8 +45,19 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg" width="45" height="45" alt="Nano" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="45" height="45" alt="Neovim"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="45" height="45" alt="Apache" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" />
+</p>
+
+#### Others
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="45" height="45" alt="Adobe Premiere Pro" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"  width="45" height="45" alt="GIMP"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="45" height="45" alt="Notion"/>
 </p>
 
 ### saturno10@github:~/technicalInformation$ cat contactInfo.txt
