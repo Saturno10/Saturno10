@@ -70,6 +70,7 @@ My name is Álvaro, I'm a Computer Engineering student. I'm always looking for n
 ### saturno10@github:~/currentPlans$ cat whatImLearning.txt
 - Software design & development
 - Project management
+- Cybersecurity fundamentals
 
 <div align="center">
    
